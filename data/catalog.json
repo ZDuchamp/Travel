@@ -1,1 +1,15 @@
-{"site":{"title":"TravelOS","subtitle":"家庭旅行计划、行程与出行资料库"},"trips":[{"id":"sequoia-2026","title":"Sequoia + Kings Canyon","dates":"2026/8/30–2026/9/1","summary":"Tesla Model Y RWD · 3天2晚亲子自驾","status":"planning"}]}
+{
+  "site": {
+    "title": "TravelOS",
+    "subtitle": "家庭旅行计划、行程与出行资料库"
+  },
+  "trips": [
+    {
+      "id": "sequoia-2026",
+      "title": "Sequoia + Kings Canyon",
+      "dates": "2026/8/30–2026/9/1",
+      "summary": "Tesla Model Y RWD · 3天2晚亲子自驾",
+      "status": "planning"
+    }
+  ]
+}
