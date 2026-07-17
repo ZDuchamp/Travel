@@ -1,1 +1,35 @@
-{"general-grant":{"name":"General Grant Tree Trail","type":"trail","babyScore":5,"walk":"约0.5 mi","carrierPreferred":true},"roaring-river":{"name":"Roaring River Falls","type":"trail","babyScore":5,"walk":"约0.4 mi","carrierPreferred":true},"zumwalt":{"name":"Zumwalt Meadow","type":"trail","babyScore":4,"walk":"建议约0.8 mi短走","carrierPreferred":true},"sherman":{"name":"General Sherman Tree","type":"attraction","babyScore":4,"walk":"视停车与接驳约0.8–1.5 mi","carrierPreferred":true},"gateway":{"name":"The Gateway Restaurant & Lodge","type":"restaurant-charger","charging":"Tesla Destination Charger；可选补电，不作为主计划"}}
+{
+  "general-grant": {
+    "name": "General Grant Tree Trail",
+    "type": "trail",
+    "babyScore": 5,
+    "walk": "约0.5 mi",
+    "carrierPreferred": true
+  },
+  "roaring-river": {
+    "name": "Roaring River Falls",
+    "type": "trail",
+    "babyScore": 5,
+    "walk": "约0.4 mi",
+    "carrierPreferred": true
+  },
+  "zumwalt": {
+    "name": "Zumwalt Meadow",
+    "type": "trail",
+    "babyScore": 4,
+    "walk": "建议约0.8 mi短走",
+    "carrierPreferred": true
+  },
+  "sherman": {
+    "name": "General Sherman Tree",
+    "type": "attraction",
+    "babyScore": 4,
+    "walk": "视停车与接驳约0.8–1.5 mi",
+    "carrierPreferred": true
+  },
+  "gateway": {
+    "name": "The Gateway Restaurant & Lodge",
+    "type": "restaurant-charger",
+    "charging": "Tesla Destination Charger；可选补电，不作为主计划"
+  }
+}
