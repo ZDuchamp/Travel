@@ -1,1 +1,9 @@
-{"john-muir-lodge":{"name":"John Muir Lodge","area":"Grant Grove","nights":2,"charging":false,"notes":"两晚固定基地，避免搬房；步行可达Grant Grove Village主要配套。"}}
+{
+  "john-muir-lodge": {
+    "name": "John Muir Lodge",
+    "area": "Grant Grove",
+    "nights": 2,
+    "charging": false,
+    "notes": "两晚固定基地，避免搬房；步行可达Grant Grove Village主要配套。"
+  }
+}
